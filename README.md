@@ -9,3 +9,4 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./problems/removeElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./problems/strStr.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./problems/searchInsert.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists//)|[JavaScript](./problems/mergeTwoSortedLists.js)|Easy|
