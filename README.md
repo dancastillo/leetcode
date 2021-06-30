@@ -13,3 +13,4 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |52|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./problems/maximumSubarray.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./problems/lengthOfLastWord.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./problems/plusOne.js)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./problems/climbingStairs.js)|Easy|
