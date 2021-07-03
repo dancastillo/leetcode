@@ -8,6 +8,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./problems/twoSum.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JavaScript](./problems/addTwoNumbers.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](.problems/longestSubstringWithoutRepeatingCharacters.js)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](.problems/removeNthNodeFromEndOfList.js)|Medium|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./problems/removeElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./problems/strStr.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists//)|[JavaScript](./problems/mergeTwoSortedLists.js)|Easy|
