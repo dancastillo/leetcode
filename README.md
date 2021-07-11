@@ -10,8 +10,10 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./problems/longestSubstringWithoutRepeatingCharacters.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./problems/containerWithMostWater.js)|Medium|Array|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./problems/3sumClosest.js)|Medium|Array|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./problems/letterCombinationsOfAPhoneNumber.js)|Medium||
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./problems/4sum.js)|Medium|Array|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./problems/removeNthNodeFromEndOfList.js)|Medium|
+|19|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./problems/generateParentheses.js)|Medium||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./problems/removeElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./problems/strStr.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists//)|[JavaScript](./problems/mergeTwoSortedLists.js)|Easy|
