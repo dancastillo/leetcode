@@ -21,4 +21,5 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./problems/lengthOfLastWord.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./problems/plusOne.js)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./problems/climbingStairs.js)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./problems/removeDuplicatesFromSortedList.js)|Easy|Linked List|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./problems/mergeSortedArray.js)|Easy|
