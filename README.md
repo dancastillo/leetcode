@@ -22,6 +22,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./problems/searchInsert.js)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./problems/validSudoku.js)|Medium|Hash Map|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JavaScript](./problems/combinationSum.js)|Medium|Backtrack|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[JavaScript](./problems/jumpGameII.js)|Medium||
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./problems/permutations.js)|Medium|
 |52|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./problems/maximumSubarray.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./problems/lengthOfLastWord.js)|Easy|
