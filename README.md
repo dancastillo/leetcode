@@ -18,6 +18,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./problems/strStr.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists//)|[JavaScript](./problems/mergeTwoSortedLists.js)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./problems/searchInRotatedSortedArray.js)|Medium|BST|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./problems/findFirstAndLastPositionOfElementInSortedArray.js)|Medium|BST|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./problems/searchInsert.js)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./problems/validSudoku.js)|Medium|Hash Map|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JavaScript](./problems/combinationSum.js)|Medium|Backtrack|
