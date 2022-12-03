@@ -13,6 +13,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./problems/letterCombinationsOfAPhoneNumber.js)|Medium||
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./problems/4sum.js)|Medium|Array|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./problems/removeNthNodeFromEndOfList.js)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./problems/validParenthesis.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./problems/generateParentheses.js)|Medium||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./problems/removeElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./problems/strStr.js)|Easy|
