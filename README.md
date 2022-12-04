@@ -34,3 +34,4 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./problems/removeDuplicatesFromSortedList.js)|Easy|Linked List|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./problems/mergeSortedArray.js)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/)|[JavaScript](./problems/symmetricTree.js)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./problems/maximumDepthOfBinaryTree.js)|Easy|BST|
