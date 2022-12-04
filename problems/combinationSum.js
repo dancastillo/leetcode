@@ -1,15 +1,3 @@
-/**
- * @param {number[]} candidates
- * @param {number} target
- * @return {number[][]}
- */
-var combinationSum = function(candidates, target) {
-  let results = [];
-  backtrack(results, [], candidates, target, 0);
-  
-  return results;
-};
-
 function backtrack(results, tmpArr, candidates, remaining, start) {
   if (remaining < 0) {
     return;
@@ -23,3 +11,15 @@ function backtrack(results, tmpArr, candidates, remaining, start) {
     }
   }
 }
+
+/**
+ * @param {number[]} candidates
+ * @param {number} target
+ * @return {number[][]}
+ */
+const combinationSum = function (candidates, target) {
+  const results = [];
+  backtrack(results, [], candidates, target, 0);
+
+  return results;
+};

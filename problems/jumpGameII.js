@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-var jump = function(nums) {
+const findJump = function (nums) {
   if (nums.length <= 1) {
     return 0;
   }
@@ -10,18 +10,18 @@ var jump = function(nums) {
   let ladder = nums[0];
   // keep track of stairs in current ladder
   let stairs = nums[0];
-  
+
   let jump = 1;
-  
+
   for (let level = 1; level < nums.length; level++) {
     if (level === nums.length - 1) {
-      return jump; 
+      return jump;
     }
     if (level + nums[level] > ladder) {
       ladder = level + nums[level];
     }
-    
-   stairs--; 
+
+    stairs--;
     if (stairs === 0) {
       // no stairs are left -> jump to next index;
       jump++;
@@ -29,8 +29,6 @@ var jump = function(nums) {
       stairs = ladder - level;
     }
   }
-  
+
   return jump;
 };
-
-

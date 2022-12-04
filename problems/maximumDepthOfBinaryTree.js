@@ -10,14 +10,14 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var maxDepth = function(root) {
-    const dfs = (node) => {
-        if (!node) {
-            return 0;
-        }
-        
-        return Math.max(dfs(node.left), dfs(node.right)) + 1;
-    };
-    
-    return dfs(root);
+const maxDepth = function (root) {
+  const dfs = (node) => {
+    if (!node) {
+      return 0;
+    }
+
+    return Math.max(dfs(node.left), dfs(node.right)) + 1;
+  };
+
+  return dfs(root);
 };

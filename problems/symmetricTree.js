@@ -10,22 +10,22 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var isSymmetric = function(root) {
-    const bfs = (left, right) => {
-        if (!left && !right) {
-            return true;
-        }
-        
-        if (!left || !right) {
-            return false;
-        }
+const isSymmetric = function (root) {
+  const bfs = (left, right) => {
+    if (!left && !right) {
+      return true;
+    }
 
-        if (left.val !== right.val) {
-            return false;
-        }
-        
-        return bfs(left.left, right.right) && bfs(left.right, right.left);
-    };
-    
-    return bfs(root.left, root.right);
+    if (!left || !right) {
+      return false;
+    }
+
+    if (left.val !== right.val) {
+      return false;
+    }
+
+    return bfs(left.left, right.right) && bfs(left.right, right.left);
+  };
+
+  return bfs(root.left, root.right);
 };

@@ -9,23 +9,23 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var deleteDuplicates = function(head) {
-    if (!head || !head.next) {
-        return head;
-    }
-
-    let slow = head;
-    let fast = slow.next;
-    
-    while(fast) {
-        if (slow.val === fast.val) {
-            fast = fast.next;
-            slow.next = fast;
-        } else {
-            fast = fast.next;
-            slow = slow.next;
-        }
-    }
-    
+const deleteDuplicates = function (head) {
+  if (!head || !head.next) {
     return head;
+  }
+
+  let slow = head;
+  let fast = slow.next;
+
+  while (fast) {
+    if (slow.val === fast.val) {
+      fast = fast.next;
+      slow.next = fast;
+    } else {
+      fast = fast.next;
+      slow = slow.next;
+    }
+  }
+
+  return head;
 };
