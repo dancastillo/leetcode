@@ -23,5 +23,6 @@ module.exports = {
     'no-unused-expressions': 'off',
     'no-useless-return': 'off',
     'no-else-return': 'off',
+    'no-var': 'off',
   },
 };
