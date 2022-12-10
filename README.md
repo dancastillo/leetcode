@@ -9,6 +9,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JavaScript](./problems/addTwoNumbers.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./problems/longestSubstringWithoutRepeatingCharacters.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./problems/containerWithMostWater.js)|Medium|Array|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)[JavaScript](./problems/romanToInteger.js)|Easy|
 |15|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./problems/3sumClosest.js)|Medium|Array|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./problems/letterCombinationsOfAPhoneNumber.js)|Medium||
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./problems/4sum.js)|Medium|Array|
