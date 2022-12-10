@@ -15,10 +15,11 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./problems/4sum.js)|Medium|Array|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./problems/removeNthNodeFromEndOfList.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./problems/validParenthesis.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists//)|[JavaScript](./problems/mergeTwoSortedLists.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./problems/generateParentheses.js)|Medium||
+|26|[Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./problems/removeDuplicatesFromSortedArray.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./problems/removeElement.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./problems/strStr.js)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists//)|[JavaScript](./problems/mergeTwoSortedLists.js)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./problems/searchInRotatedSortedArray.js)|Medium|BST|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./problems/findFirstAndLastPositionOfElementInSortedArray.js)|Medium|BST|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./problems/searchInsert.js)|Easy|
