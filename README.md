@@ -8,6 +8,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JavaScript](./problems/twoSum.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [JavaScript](./problems/addTwoNumbers.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./problems/longestSubstringWithoutRepeatingCharacters.js)|Medium|
+|5|[Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/)|[JavaScript](./problems/longestPalindromicString.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./problems/containerWithMostWater.js)|Medium|Array|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)[JavaScript](./problems/romanToInteger.js)|Easy|
 |15|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./problems/3sumClosest.js)|Medium|Array|
