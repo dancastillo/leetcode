@@ -38,5 +38,6 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./problems/mergeSortedArray.js)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/)|[JavaScript](./problems/symmetricTree.js)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./problems/maximumDepthOfBinaryTree.js)|Easy|BST|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./problems/convertSortedArrayToBinarySearchTree.js)|Easy|BST|
 |109|[Conver Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[JavaScript](./problems/convertSortedArrayToBst.js)|Easy|BST|
 |118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle)|[JavaScript](./problems/pascalsTriangle.js)|Easy|DP|
