@@ -11,21 +11,21 @@
  */
 const deleteDuplicates = function (head) {
   if (!head || !head.next) {
-    return head;
+    return head
   }
 
-  let slow = head;
-  let fast = slow.next;
+  let slow = head
+  let fast = slow.next
 
   while (fast) {
     if (slow.val === fast.val) {
-      fast = fast.next;
-      slow.next = fast;
+      fast = fast.next
+      slow.next = fast
     } else {
-      fast = fast.next;
-      slow = slow.next;
+      fast = fast.next
+      slow = slow.next
     }
   }
 
-  return head;
-};
+  return head
+}

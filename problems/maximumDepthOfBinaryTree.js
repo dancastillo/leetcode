@@ -13,11 +13,11 @@
 const maxDepth = function (root) {
   const dfs = (node) => {
     if (!node) {
-      return 0;
+      return 0
     }
 
-    return Math.max(dfs(node.left), dfs(node.right)) + 1;
-  };
+    return Math.max(dfs(node.left), dfs(node.right)) + 1
+  }
 
-  return dfs(root);
-};
+  return dfs(root)
+}

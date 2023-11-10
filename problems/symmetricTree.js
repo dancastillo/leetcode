@@ -13,19 +13,19 @@
 const isSymmetric = function (root) {
   const bfs = (left, right) => {
     if (!left && !right) {
-      return true;
+      return true
     }
 
     if (!left || !right) {
-      return false;
+      return false
     }
 
     if (left.val !== right.val) {
-      return false;
+      return false
     }
 
-    return bfs(left.left, right.right) && bfs(left.right, right.left);
-  };
+    return bfs(left.left, right.right) && bfs(left.right, right.left)
+  }
 
-  return bfs(root.left, root.right);
-};
+  return bfs(root.left, root.right)
+}

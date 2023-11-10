@@ -11,26 +11,26 @@ const letterCombinations = function (digits) {
     6: 'mno',
     7: 'pqrs',
     8: 'tuv',
-    9: 'wxyz',
-  };
-  const results = [];
+    9: 'wxyz'
+  }
+  const results = []
 
   const getCombinations = (index, comboString) => {
     if (index === digits.length) {
-      results.push(comboString);
-      return;
+      results.push(comboString)
+      return
     }
 
     for (const c of map[digits[index]]) {
-      getCombinations(index + 1, comboString + c);
+      getCombinations(index + 1, comboString + c)
     }
-  };
-
-  if (digits.length === 0) {
-    return results;
   }
 
-  getCombinations(0, '');
+  if (digits.length === 0) {
+    return results
+  }
 
-  return results;
-};
+  getCombinations(0, '')
+
+  return results
+}

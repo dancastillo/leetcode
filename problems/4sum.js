@@ -4,42 +4,42 @@
  * @return {number[][]}
  */
 const fourSum = function (nums, target) {
-  nums.sort((a, b) => a - b);
-  const results = [];
+  nums.sort((a, b) => a - b)
+  const results = []
 
   for (let i = 0; i < nums.length - 3; i++) {
     for (let j = i + 1; j < nums.length - 2; j++) {
-      let low = j + 1;
-      let high = nums.length - 1;
+      let low = j + 1
+      let high = nums.length - 1
 
       while (low < high) {
-        const sum = nums[i] + nums[j] + nums[low] + nums[high];
+        const sum = nums[i] + nums[j] + nums[low] + nums[high]
 
         if (sum < target) {
-          low++;
+          low++
         } else if (sum > target) {
-          high--;
+          high--
         } else {
-          results.push([nums[i], nums[j], nums[low], nums[high]]);
+          results.push([nums[i], nums[j], nums[low], nums[high]])
           while (nums[low] === nums[low + 1]) {
-            low++;
+            low++
           }
           while (nums[high] === nums[high - 1]) {
-            high--;
+            high--
           }
-          low++;
-          high--;
+          low++
+          high--
         }
       }
 
       while (nums[j] === nums[j + 1]) {
-        j++;
+        j++
       }
     }
     while (nums[i] === nums[i + 1]) {
-      i++;
+      i++
     }
   }
 
-  return results;
-};
+  return results
+}

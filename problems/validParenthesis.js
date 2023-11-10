@@ -3,23 +3,23 @@
  * @return {boolean}
  */
 const isValid = function (s) {
-  const stack = [];
+  const stack = []
   const match = {
     ']': '[',
     '}': '{',
-    ')': '(',
-  };
+    ')': '('
+  }
 
   for (const bracket of s) {
     if (match[bracket] === undefined) {
-      stack.push(bracket);
+      stack.push(bracket)
     } else {
-      const opening = stack.pop();
+      const opening = stack.pop()
       if (opening !== match[bracket]) {
-        return false;
+        return false
       }
     }
   }
 
-  return true && stack.length === 0;
-};
+  return true && stack.length === 0
+}

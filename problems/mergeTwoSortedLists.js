@@ -11,22 +11,22 @@
  * @return {ListNode}
  */
 const mergeTwoLists = function (l1, l2) {
-  const newList = { val: -1, next: undefined };
-  let llist = newList;
+  const newList = { val: -1, next: undefined }
+  let llist = newList
 
   while (l1 && l2) {
     if (l1.val > l2.val) {
-      llist.next = l2;
-      l2 = l2.next;
+      llist.next = l2
+      l2 = l2.next
     } else {
-      llist.next = l1;
-      l1 = l1.next;
+      llist.next = l1
+      l1 = l1.next
     }
 
-    llist = llist.next;
+    llist = llist.next
   }
 
-  llist.next = l1 || l2;
+  llist.next = l1 || l2
 
-  return newList.next;
-};
+  return newList.next
+}
