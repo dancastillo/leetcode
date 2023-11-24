@@ -41,5 +41,6 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./problems/convertSortedArrayToBinarySearchTree.js)|Easy|BST|
 |109|[Conver Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[JavaScript](./problems/convertSortedArrayToBst.js)|Easy|BST|
 |118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle)|[JavaScript](./problems/pascalsTriangle.js)|Easy|DP|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](./problems/validPalindrome.js)|Easy||
 [169]|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript(./problems/majority-element.js)]Easy||
 [189]|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript(./problems/rotate-array.js)]Medium||
