@@ -3,7 +3,7 @@
  * @param {string} t
  * @return {boolean}
  */
-var isSubsequence = function (s, t) {
+const isSubsequence = function (s, t) {
   if (s.length === 0) return true;
   if (t.length === 0) return false;
   if (s.length > t.length) return false;
