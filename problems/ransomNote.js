@@ -3,7 +3,7 @@
  * @param {string} magazine
  * @return {boolean}
  */
-var canConstruct = function (ransomNote, magazine) {
+const canConstruct = function (ransomNote, magazine) {
   const map = {};
   for (const letter of magazine) {
     if (!map[letter]) map[letter] = 0;
