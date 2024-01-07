@@ -4,16 +4,16 @@
  * @return {boolean}
  */
 const canConstruct = function (ransomNote, magazine) {
-  const map = {};
+  const map = {}
   for (const letter of magazine) {
-    if (!map[letter]) map[letter] = 0;
-    map[letter]++;
+    if (!map[letter]) map[letter] = 0
+    map[letter]++
   }
 
   for (const letter of ransomNote) {
-    if (!map[letter]) return false;
-    map[letter]--;
+    if (!map[letter]) return false
+    map[letter]--
   }
 
-  return true;
-};
+  return true
+}
