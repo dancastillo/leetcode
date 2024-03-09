@@ -11,6 +11,7 @@ Leetcode problems solved in JavaScript by [dancastillo](https://leetcode.com/dan
 |5|[Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/)|[JavaScript](./problems/longestPalindromicString.js)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./problems/containerWithMostWater.js)|Medium|Array|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)[JavaScript](./problems/romanToInteger.js)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[JavaScript](./problems/longestCommonPrefix.js)|Easy||
 |15|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./problems/3sumClosest.js)|Medium|Array|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./problems/letterCombinationsOfAPhoneNumber.js)|Medium||
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./problems/4sum.js)|Medium|Array|
